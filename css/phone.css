@@ -26,7 +26,6 @@ height: 480px;
 /* Services section */
 #services{
     flex-direction: column;
-    width: 100px;
 }
 #services.box{
     padding: 14px;
